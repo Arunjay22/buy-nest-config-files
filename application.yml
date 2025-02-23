@@ -1,5 +1,5 @@
 server:
- port: 8051 # Default Port
+ port: 8052 # Default Port
 ---
 # My Sql Connection Properties
 spring:
