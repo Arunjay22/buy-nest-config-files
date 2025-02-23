@@ -15,6 +15,7 @@ spring:
     properties:
       dialect: org.hibernate.dialect.MySQLDialect
 ---
+# Updated Properties that will refelect on the service automatically
 management:
   endpoints:
     web:
