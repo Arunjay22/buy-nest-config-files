@@ -1,4 +1,4 @@
-#Default File Configuration For All Service's (Common Configuration)
+# Default File Configuration For All Service's (Common Configuration)
 server:
  port: 8052 # Default Port
 ---
