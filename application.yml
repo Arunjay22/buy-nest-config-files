@@ -23,7 +23,14 @@ management:
       exposure:
         include: refresh
 ---
+#flyway Migration Porperties
 spring:
   flyway:
     enabled: true
     baseline-on-migrate: true
+    #Redis Cache Properties
+  redis:
+    host: localhost
+    port: 6379
+  cache:
+    type: redis
