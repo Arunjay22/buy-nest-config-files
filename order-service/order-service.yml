@@ -1,0 +1,3 @@
+#Order Service Default Configs
+server:
+ port:8071
