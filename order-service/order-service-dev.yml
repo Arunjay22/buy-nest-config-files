@@ -1,0 +1,3 @@
+#Order Service Dev Environment
+server:
+ port: 8072
